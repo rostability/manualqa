@@ -1,2 +1,2 @@
 # manualqa
-It's almost done... This page is under construction😊
+It's almost done... This page is in development😊
